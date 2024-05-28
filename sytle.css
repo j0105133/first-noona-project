@@ -1,4 +1,4 @@
-/*prac_css1*/
+/*cssChallenge1*/
 .box {
   border: 50px solid #e74c3c;
   padding: 50px;
@@ -14,7 +14,7 @@
 .blue {
   border-color: #f1c40f;
 }
-/*prac_css2*/
+/*cssChallenge2*/
 h1 {
   color: #9b59b6;
 }
@@ -28,7 +28,7 @@ h1:first-child {
 .sub-header {
     color: #2980b9;
   }
-  
+
 p {
   font-size: 16px;
   font-family: Verdana;
